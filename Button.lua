@@ -1,3 +1,9 @@
+-- 7631202810:AAERfAQWMM1mKDB3RsYr6PLYlUdh5IGmx2M
+
+
+
+
+
 -- Создаем ScreenGui
 local player = game.Players.LocalPlayer
 local playerGui = player:WaitForChild("PlayerGui")
